@@ -176,9 +176,9 @@ h1, h2, h3, h4, h5, h6 {
   .icon {
     z-index: 5;
     position: absolute;
-    right: 30px;
+    right: 0px;
     font-size: 20px;
-    top: 28px;
+    top: 15px;
   }
 
   .navbar {
